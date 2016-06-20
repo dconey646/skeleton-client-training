@@ -9,7 +9,7 @@ import javax.ws.rs.client.WebTarget;
 import javax.ws.rs.core.Form;
 import javax.ws.rs.core.Response;
 
-public class BaseClient 
+public class LoginClient
 {
 
 	public void getLogin(String username, String password){
